@@ -1,12 +1,12 @@
 
-<h2> Hi, I'm Dmitry!
+<h3> Hi, I'm Dmitry!
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-</h2>
+</h3>
 <img align='right' src="https://i.pinimg.com/originals/ed/ec/57/edec57b70e496d6310c0ba533909acb2.gif" width="200" border-radius="50%">
-<p>
+<h2>
 <em>Fullstack developer at Python
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em>
-</p>
+</h2>
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/dmi_gwa)
 
