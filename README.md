@@ -41,6 +41,8 @@ function repeat();
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dim4ik1985&repo=myCloud)](https://github.com/dim4ik1985/myCloud)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dim4ik1985&repo=films-search)](https://github.com/dim4ik1985/films-search)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dim4ik1985&repo=note_flow)](https://github.com/dim4ik1985/note_flow)
+
 
 
 ### 👩‍💻 Languages && Tools
